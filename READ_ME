@@ -7,6 +7,11 @@ Date Completed: 04/01/2020
 Version: 1.2.1
 
 Description: Daily to-do list tracker, replaces sticky notes.
+
+Customization requirements:
+	- Customize directory for save files, change directory to desired directory in lines 14, 15, and 29 of "SaveFile" 
+	- Customize categories in line 33 of "Root"
+
 Features:
 	Adding and subtracting items to do for the day
 	Utilize tabs for different days
