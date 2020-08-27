@@ -1,0 +1,17 @@
+READ_ME file
+
+Project Title: Daily To-Do list
+Project Author: Elijah S. Karl
+Date Started: 03/29/2020
+Date Completed: 04/01/2020
+Version: 1.2.1
+
+Description: Daily to-do list tracker, replaces sticky notes.
+Features:
+	Adding and subtracting items to do for the day
+	Utilize tabs for different days
+	Have categories for the days
+	Each item has a category, due date and time
+	Minimal impact on performance
+	Minimal impact on screen space
+	Save-able events
